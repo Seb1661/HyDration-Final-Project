@@ -1,0 +1,12 @@
+---
+:id: 152898443
+:submitters:
+- :name: Seb Lozano
+  :email: sebastianlozano@college.harvard.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-12-07 02:42:23.999807000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-12-06 18:42:23.999807000 Z
+:status: processed
+:score: 21.0
